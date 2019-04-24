@@ -1,0 +1,34 @@
+{
+  "name": "rpi-docker-ibeacon",
+  "version": "1.0.0",
+  "description": "In a docker container managed iBeacon",
+  "main": "app.js",
+  "scripts": {
+    "docker": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominik-th/rpi-docker-ibeacon.git"
+  },
+  "keywords": [
+    "ibeacon",
+    "beacon",
+    "ble",
+    "bluetooth",
+    "low",
+    "energy",
+    "docker",
+    "raspberry",
+    "pi"
+  ],
+  "author": "Dominik Thiemermann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dominik-th/rpi-docker-ibeacon/issues"
+  },
+  "homepage": "https://github.com/dominik-th/rpi-docker-ibeacon#readme",
+  "dependencies": {
+    "bleacon": "^0.5.1"
+  },
+  "devDependencies": {},
+}
