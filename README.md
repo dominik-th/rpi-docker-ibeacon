@@ -24,12 +24,13 @@ version: '3.7'
 services:
   ibeacon:
     image: dominikth/rpi-docker-ibeacon
-    network_mode: "host"
+    network_mode: host
     environment:
       - UUID=a84ad600-d217-40e2-b51c-ccbc5e8cc2af
       - MAJOR=0
       - MINOR=0
 ```
 
-
 ### Limitations
+
+Unfortunately currently it is not possible to create multiple iBeacons at the same time.
