@@ -1,7 +1,7 @@
 ## rpi-docker-ibeacon
 
-[![Docker layers and size](https://images.microbadger.com/badges/image/dominikth/rpi-docker-ibeacon.svg)](https://hub.docker.com/r/dominikth/rpi-docker-ibeacon)
-[![Docker pulls](https://img.shields.io/docker/pulls/dominikth/rpi-docker-ibeacon.svg)](https://hub.docker.com/r/dominikth/rpi-docker-ibeacon)
+[![Docker Image Size](https://img.shields.io/docker/image-size/dominikth/rpi-docker-ibeacon)](https://hub.docker.com/r/dominikth/rpi-docker-ibeacon)
+[![Docker Pulls](https://img.shields.io/docker/pulls/dominikth/rpi-docker-ibeacon)](https://hub.docker.com/r/dominikth/rpi-docker-ibeacon)
 
 This is a docker image to use your existing Raspberry Pi 3 as an iBeacon without any additional hardware.
 
